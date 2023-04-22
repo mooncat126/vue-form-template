@@ -196,7 +196,7 @@
   </div>
 </template>
 <script>
-import { url, logo, guideIcon, telFormat, toHalfWidth } from '@/common/utils'
+import { url, logo, telFormat, toHalfWidth } from '@/common/utils'
 import errors from '@/common/mixins/mapper/errors'
 import HeaderLogo from '@/components/HeaderLogo'
 import FooterLogo from '@/components/FooterLogo'
@@ -221,7 +221,6 @@ export default {
       formData: formFields,
       url: url,
       logo: logo,
-      guideIcon: guideIcon,
       primacyUrl: 'https://www.kou.jp/privacy',
       loading: false
     }
