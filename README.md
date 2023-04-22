@@ -1,5 +1,7 @@
 # vue form template
 
+A form template with validation created using Vue2.
+
 ### Setup
 node: v16.15.1
 
