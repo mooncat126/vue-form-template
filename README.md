@@ -12,10 +12,10 @@ yarn serve
 http://localhost:8080
 
 
-normal
 ![localhost_8080_](https://user-images.githubusercontent.com/112956463/233770712-9536d996-7adb-4e0a-aab6-12231ed40722.png)
 
-***
+<br />
+<br />
+<br />
 
-Validation
-![localhost_8080_](https://user-images.githubusercontent.com/112956463/233770733-d8ca8df0-c860-4d8e-8682-c944c05dc6b8.png)
+![localhost_8080_](https://user-images.githubusercontent.com/112956463/233770790-5e4cf5ab-ccd6-403e-b761-7fbcf031079b.png)
